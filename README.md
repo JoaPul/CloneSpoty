@@ -3,18 +3,6 @@
 ---------
 things to do: 
 
-///Copy all the icons for the player.
-- heart
-- play
-- pause
-- radom
-- loop
-- video
-- sing along
-- queue
-- where to play
-- sound/mute
-- popout/minimize
 ---------
 
 ```sh
