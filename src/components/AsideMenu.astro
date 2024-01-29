@@ -1,7 +1,7 @@
 ---
 import Library from "../icons/Library.astro";
-import HomeIcon from "../icons/HomeIcon.astro";
-import SearchIcon from "../icons/SearchIcon.astro";
+import HomeIcon from "../icons/Home.astro";
+import SearchIcon from "../icons/Search.astro";
 import SideMenuItem from "./SideMenuItem.astro";
 ---
 
@@ -11,6 +11,11 @@ import SideMenuItem from "./SideMenuItem.astro";
             <SideMenuItem href="/">
                 <HomeIcon />
                 Home
+            </SideMenuItem>
+
+            <SideMenuItem href="/search">
+                <SearchIcon />
+                Search
             </SideMenuItem>
         </ul>
     </div>
